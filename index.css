@@ -25,9 +25,8 @@ h2 {
 	padding-top: 10vh;
 }
 
-h4 {
-	text-align: left;
-	padding-bottom: 0.01px;
+h3 {
+	padding-top: 0%;
 }
 
 title {
@@ -54,11 +53,19 @@ p {
 	font-size: 20px;
 }
 
-.imagebox,
+.imagebox2,
+.sketch,
 .image {
 	display: inline-flex;
 	margin-left: 1px;
 	margin-right: 1px;
+}
+
+.imagebox {
+	display: inline-flex;
+	margin-left: 1px;
+	margin-right: 1px;
+	padding-bottom: 10vh;
 }
 
 .text {
@@ -68,10 +75,17 @@ p {
 	margin-top: 0%;
 }
 
+.sketchtext {
+	text-align: left;
+	margin-left: 1px;
+	padding-top: 5%;
+}
+
 .ending {
 	padding-bottom: 15vh;
 }
 
 .covid {
 	text-align: center;
+	padding-bottom: 5vh;
 }
