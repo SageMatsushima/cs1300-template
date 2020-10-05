@@ -1,8 +1,8 @@
 * {
 	font-family: "Exo 2";
-	/* background-color: rgba(121, 121, 255, 0.514); */
+	background-color: rgb(74, 44, 94);
 	font-size: 0.25 vw;
-	color: black;
+	color: white;
 	margin-left: 50px;
 	margin-right: 50px;
 }
@@ -18,6 +18,7 @@ h1 {
 	text-align: center;
 	font-size: 2.5vw;
 	padding: 2.5vw;
+	padding-bottom: 0%;
 }
 
 h2 {
@@ -25,13 +26,13 @@ h2 {
 	padding-top: 10vh;
 }
 
-h3 {
+.Research {
+	text-align: center;
 	padding-top: 0%;
 }
 
-title {
-	text-align: center;
-	padding-bottom: 30px;
+h3 {
+	padding-top: 0%;
 }
 
 .image1,
@@ -40,6 +41,14 @@ title {
 	padding-top: 2vh;
 	margin-left: 3vw;
 	margin-right: 0.01vw;
+}
+
+.storyboard {
+	padding-top: 2vh;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 66%;
 }
 
 .list {
